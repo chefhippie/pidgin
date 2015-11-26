@@ -19,4 +19,5 @@
 
 default["pidgin"]["packages"] = %w(
   pidgin
+  pidgin-sipe
 )
